@@ -68,6 +68,7 @@ main{
 .card p{
     padding: 2rem;
     background-color: pink;
+    font-size: 14px;
 }
 .profile img{
     float:right;
